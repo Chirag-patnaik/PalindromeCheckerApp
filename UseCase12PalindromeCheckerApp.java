@@ -1,3 +1,4 @@
+// UC12 - Strategy Pattern
 interface PalindromeStrategy {
     boolean check(String word);
 }
