@@ -1,3 +1,4 @@
+// UC1 - Welcome Message Module
 public class UseCase1PalindromeCheckerApp {
 
     public static void main(String[] args) {
