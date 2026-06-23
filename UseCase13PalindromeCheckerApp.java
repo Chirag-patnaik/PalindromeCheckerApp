@@ -1,3 +1,4 @@
+// UC13 - Performance Comparison
 public class UseCase13PalindromeCheckerApp {
 
     public static boolean method1(String word) {
