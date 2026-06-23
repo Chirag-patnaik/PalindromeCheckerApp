@@ -1,3 +1,4 @@
+// UC11 - OOP Service Design
 class PalindromeChecker {
 
     public boolean checkPalindrome(String word) {
