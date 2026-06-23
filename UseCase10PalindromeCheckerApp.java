@@ -1,3 +1,4 @@
+// UC10 - Ignore Spaces and Case
 public class UseCase10PalindromeCheckerApp {
 
     public static void main(String[] args) {
